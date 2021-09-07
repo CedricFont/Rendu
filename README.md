@@ -1,6 +1,6 @@
 # Hydrogen fast filling modeling, optimisation and control
 
-This was my first semester project, which I've done at the Laboratory for Renweable Energy Science and Engineering (LRESE) at the EPFL.
+This was my first semester project, which I have done at the Laboratory for Reneweable Energy Science and Engineering (LRESE) at the EPFL.
 
 The main goal consisted in modeling the rapid filling of a gaseous hydrogen tank and to control it in an optimal way so that filling duration is minimised while critical 
 evolve in a secure manner. Those are essentially the pressure and the inner tank temperature.
